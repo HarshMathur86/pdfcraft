@@ -1,4 +1,4 @@
-# PDFCraft - Architecture & Tech Stack Documentation ( ✨ AI Generrated)
+# PDFCraft - Architecture & Tech Stack Documentation ( ✨ AI Generated)
 
 ## 📋 Project Overview
 
